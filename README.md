@@ -23,7 +23,7 @@
 
 <br>
 
-## Технологии
+## Стек
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,nodejs,react,postgres,sqlite,docker,git,linux&theme=dark&perline=6" alt="Python, JavaScript, TypeScript, HTML, CSS, Node.js, React, PostgreSQL, SQLite, Docker, Git, Linux" />
