@@ -2,8 +2,6 @@
   <img src="./assets/black-sea.gif" width="640" alt="Ночной океан" />
 </p>
 
-<h1 align="center">NeTerix</h1>
-
 <p align="center">
   <b>Telegram-боты · Mini Apps · Сайты · Автоматизация</b>
 </p>
